@@ -42,7 +42,7 @@
 // Thus, the space complexity is O(1).
 
 
-public class Solution extends GuessGame {
+public class Guessnumberhigherorlower extends GuessGame {
     public int guessNumber(int n) {
         int low = 1;
         int high = n;
